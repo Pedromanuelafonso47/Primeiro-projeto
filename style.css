@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300;400;500;600;700 & family= Righteous & display=swap');
+* {margin: 0; padding:0 ; box-sizing: border-box;text-transform: none; }
+
+body {font-size: 100%; background: linear-gradient(68.15deg, #2f2325 16.62%, #8e5d52 85.61%  ); }
+
+.afonso {display: flex; flex-direction: row; align-items: center; justify-content: space-around; padding: 24px;  }
+.pedro {height: 72px;}
+.ezequiel {display: flex;gap: 32px; }
+.p{font-family:"sarala",sans-serif; color: #fff2e7;font-weight: 400; font-size: 18px;}
+.mingo {border-top: 0.4px solid #fff2e7 ; margin-bottom: 48px; }
+.k1{display: flex; flex-direction: row; align-items: center; justify-content: space-around; }
+.k2{display: flex; flex-direction: column;gap: 32px; }
+.k3 {font-family:"righteous"; cursive; font-weight: 400;font-size: 64px; color: #fff2e7; }
+.k4 {font-family: "sarala",sans-serif; font-weight: 400;font-size: 24px; color: #ecd6c4; }
+.k5 {background-color: #ecd6c4; width: 180px; height: 60px;border: none; box-shadow: 4px 5px 4px rgba(0,0,0,0.25);border-radius: 20px; font-family: "sarala"sans-serif ;font-weight: 400;font-size: 20px; color: #2f2325; }
+.k10 {height: 430px;}
+.mauana {display: flex; flex-direction: column; align-items: center; gap: 24px;margin-top: 48px;}
+.rd{border-top: 0.4px solid #fff2e7;padding-top: 48px; font-family: "righteous"cursive ; font-weight: 400; font-size: 24px;color: #fff2ef;margin-bottom: 16px; }
+.p{font-family: "sarala"sans-serif;font-weight: 300;font-size: 18px; color: #ecd6c4;}
+.kkk{padding: 32px; border-top: 0.4px solid #fff2e7;}
+.lk{height: 48px; display: block; margin: 0 auto;}
+.k5:hover {background-color: rgba(236,214,196,0.53);}
